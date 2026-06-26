@@ -23,10 +23,12 @@ In electronics, usually signal is a variation of electrical current (I).
 
 <b> Why do we need "Digital Signals"? </b>
 <br>
-Digitals signals are used in a wide range of everyday tasks for their high accuracy.
-</br>
+ They improve efficiency and reduce cost involved in the tasks.</br>
 
-Source: (https://www.youtube.com/watch?v=izBaDRyqnBk&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&index=4)
+<b> Introduction to Digital Electronics: </b>
+An ADC (Analog to Digital converter), takes in an analog signal and converts into digital and feeds it to your digital system (computer, calculator, watch) which manipulates the data and produces an output through the DAC (Digital to Analog converter).
+
+The digital system is made of sub systems, modules, basic units (Logic Gates), circuits (transistirs, capacitors etc).
 
 
 
