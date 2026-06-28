@@ -70,5 +70,16 @@ Y = A . b, is a logic expresion, describing the output Y. Y will be 1, if A and 
 - (A + B)' = A' . B'
 - (A . B)' = A' + B'
 
+Boolean Algebra is used to minimize the hardware used, reduce cost, and increase the speed of processing.
+</br>
+
+<b> Redundancy Theorem: </b>
+Used to simplify boolean expressions.
+<br> 
+1. Your equation has 3 variables
+2. Each variable is repeated twice
+3. One variable is complimented
+
+If the above three conditions are satisfied then you can use this theorem to simplify your experssion. Which is simply writing the equation such that each element is repeated only once, and you specifically keep the term with the compliment untouched.
 </br>
 
